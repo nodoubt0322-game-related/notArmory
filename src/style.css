@@ -1,0 +1,4 @@
+body {
+    background-image: radial-gradient(at center center, rgb(51, 0, 0) 1%, rgb(0, 0, 0) 75%); 
+    font-family: Verdana;
+}
